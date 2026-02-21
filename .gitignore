@@ -1,4 +1,4 @@
 /uploads/
-*.sql
+
 *.sqlite
 *.db
